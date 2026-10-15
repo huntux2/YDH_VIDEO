@@ -1,0 +1,41 @@
+====================================================================
+[2026-10-14] YouTube Shorts 업로드 정보 (영문 글로벌 - 신작 RPG 자동 물약 편)
+업로드 영상: Autonomous_RPG_Auto_Potion_Pixel_Macro_EN_1080p.mp4
+구글 플레이 등록 앱 이름: Macro (패키지: com.ydh.autonomous.billing)
+※ 유튜브 스튜디오 정책상 제목과 설명란에 꺾쇠괄호( < 또는 > ) 사용이 금지되어 있어 모두 안전한 화살표( → ) 및 영문 표기로 대체했습니다.
+====================================================================
+
+[1. 제목 (Title) - 아래 줄 복사]
+Dumb Auto Clicker vs Smart Pixel Macro! (RPG Auto HP Potion & Boss Kill) #shorts
+
+(대안 제목)
+Never Die in RPG Boss Fights! Auto HP Potion Pixel Macro for Android #shorts
+
+
+--------------------------------------------------------------------
+[2. 설명 (Description) - 아래 내용 전체 복사 (꺾쇠괄호 없음)]
+Ever used a normal auto clicker in an RPG and watched it waste all your HP potions when your health was already 100% full?
+Meet Macro — the smart pixel color detection auto clicker for Android!
+
+How it works in RPG Boss Battles:
+1. Use the 11x Zoom Loupe to pick the Low-HP pixel color (#EF4444) right on your HP Bar
+2. When HP drops below 35%, it clicks your Healing Potion FIRST → Your HP Bar rises back to 100%!
+3. Triggers your Ultimate Skill & farms bosses 24/7 AFK with ZERO potion waste!
+
+Download FREE on Google Play:
+App Name: Macro
+Direct Link: https://play.google.com/store/apps/details?id=com.ydh.autonomous.billing
+
+#autoclicker #macro #rpgmobile #mobilegaming #androidgames #gamingtips #touchassistant #mmorpg #idlegames
+
+
+--------------------------------------------------------------------
+[3. 태그 (YouTube Studio 태그 입력란) - 아래 줄 복사]
+macro, auto clicker, rpg auto potion macro, smart auto clicker, pixel macro, android macro app, color detection auto clicker, afk farming android, mobile rpg tips, mmorpg auto clicker, no root auto clicker
+
+
+--------------------------------------------------------------------
+[4. 고정 댓글 (Pinned Comment) - 업로드 후 댓글 달고 고정]
+Download here! Search [ Macro ] on Google Play Store!
+Direct Link: https://play.google.com/store/apps/details?id=com.ydh.autonomous.billing
+(Works on Android 7.0+ with NO root required!)

@@ -1,0 +1,50 @@
+====================================================================
+[2026-10-15] YouTube Shorts 업로드 가이드 (글로벌 정책 100% 준수 버전)
+업로드 영상: Macro_Ep02_Perfect_Touch_Timing_Pixel_Macro_EN_1080p.mp4
+구글 플레이 등록 앱 이름: Macro (패키지: com.ydh.autonomous.billing)
+
+[글로벌 및 각국 정책 준수 체크 완료]
+1. 불법 해킹/변조 오인 금지어(hack, cheat, bot, exploit, mod 등) 100% 배제
+2. 유튜브 스튜디오 금지 기호(꺾쇠괄호 < 또는 >) 100% 배제
+3. 유튜브 스팸 방지 정책에 맞춘 안전한 정량 해시태그(8개) 및 합법 유틸리티/접근성 태그 구성
+====================================================================
+
+[1. 제목 (Title) - 아래 줄 복사해서 '제목' 칸에 붙여넣기]
+Hit PERFECT Timing Every Single Time! (0.01s Smart Touch Assistant) #shorts
+
+(대안 제목)
+Normal Auto Clicker vs 0.01s Precision Touch Timing Macro! #shorts
+
+
+--------------------------------------------------------------------
+[2. 설명 (Description) - 아래 내용 전체 복사해서 '설명' 칸에 붙여넣기]
+Always missing the tiny PERFECT zone on fast-moving timing bars in mobile games?
+Normal auto clickers just tap blindly and hit MISS every time.
+Meet Macro — the smart pixel color detection touch assistant for Android!
+
+How it catches 0.01s PERFECT touch timing automatically:
+1. Aim the 11x Zoom Loupe directly at the PERFECT timing zone on the gauge bar
+2. The exact instant the moving bar enters the PERFECT zone and turns Neon Green (#22C55E), Macro detects the screen pixel color
+3. It taps the STRIKE button first in 0.01 seconds → boosts your Combo Power Gauge to 100% MAX and lands a PERFECT Critical Hit!
+
+Safe & Official Android Utility:
+- Uses official Android Accessibility Service (100% safe screen touch assistant)
+- NO root required and NO game file modification
+
+Download FREE on Google Play:
+App Name: Macro
+Direct Link: https://play.google.com/store/apps/details?id=com.ydh.autonomous.billing
+
+#autoclicker #macro #perfecttiming #mobilegaming #androidgames #gamingtips #touchassistant #smartautoclicker
+
+
+--------------------------------------------------------------------
+[3. 태그 (YouTube Studio '더보기' 클릭 후 '태그' 입력란) - 아래 줄 전체 복사]
+macro, auto clicker, smart auto clicker, touch timing assistant, perfect timing game tips, pixel color detection, android touch assistant, screen automation utility, mobile gaming tips, accessibility auto tap, no root auto clicker
+
+
+--------------------------------------------------------------------
+[4. 고정 댓글 (Pinned Comment) - 영상 게시 완료 후 첫 댓글로 달고 고정]
+Download here! Search [ Macro ] on Google Play Store!
+Direct Link: https://play.google.com/store/apps/details?id=com.ydh.autonomous.billing
+(100% Safe Android Touch Assistant — Works on Android 7.0+ with NO root required!)

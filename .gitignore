@@ -1,0 +1,7 @@
+# Ignore temporary frame rendering directories
+work_*/
+__pycache__/
+*.pyc
+*.wav
+.DS_Store
+Thumbs.db
